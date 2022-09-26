@@ -18,9 +18,14 @@
 .box-interactive {
   width: 255px;
   height: 255px;
+  margin-top: 50px;
 }
 
 .color-text {
   font-size: 22px;
   padding: 30px 0;
+}
+
+.text {
+  font-size: 18px;
 }
